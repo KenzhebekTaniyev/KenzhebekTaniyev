@@ -6,15 +6,21 @@ I'm building real-world AI systems — from industrial tracking (EFES) to smart 
 ---
 
 ### 🧠 Research & Publications
-- 📄 [Efficient Transformer Network for Small-Scale Remote Sensing Object Detection](https://ieeexplore.ieee.org/abstract/document/10831761/) — *IEEE Access, 2024*  
-  Proposed a lightweight Transformer architecture for efficient small-object detection in aerial imagery.
 
-- 🌍 [Cross-Domain Adaptation in UAV Imagery Using Multi-Scale Vision Transformers](https://ieeexplore.ieee.org/abstract/document/10908313/) — *IEEE Geoscience and Remote Sensing Letters (GRSL), 2025*  
-  Addressed domain shift challenges in UAV datasets through adaptive attention and feature alignment.
+- 🕹️ [Multi-Stream GCN and CNN for Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/abstract/document/10831761) — *IEEE Access, 2024*  
+  This paper introduces two novel approaches for **skeleton-based human action recognition** by integrating **Graph Convolutional Networks (GCN)** and **Convolutional Neural Networks (CNN)**.  
+  The first approach fuses GCN and CNN streams for position–velocity feature learning, while the second employs GCN as an embedding layer for a supporting CNN network.  
+  Extensive experiments on **JHMDB** and **Kinetics-400** datasets show state-of-the-art performance with significantly reduced model parameters.
 
-- 🛰️ *Upcoming:* **Federated Aerial Video Captioning with Effective Temporal Adaptation** — *Under review at IEEE GRSL (Manuscript ID: GRSL-01595-2025)*  
-  Introduces a federated learning framework for aerial video understanding, enhancing temporal consistency and privacy-preserving training.
+- 🧩 [Spatial-Temporal Transformer with Contrastive Learning for Skeleton-Based Human Action Recognition](https://ieeexplore.ieee.org/abstract/document/10908313) — *IEEE Geoscience and Remote Sensing Letters (GRSL), 2025*  
+  Proposes a **Transformer-based encoder** integrated with **contrastive learning** to model complex **spatial-temporal dependencies** in skeleton data.  
+  The method enables efficient **self-supervised learning** for human activity recognition with minimal labeled data, outperforming conventional supervised approaches on benchmark datasets.
+
+- 🛰️ *Upcoming:* **Federated Aerial Video Captioning with Effective Temporal Adaptation** — *Under review at IEEE Geoscience and Remote Sensing Letters (Q1, H-index 165)*  
+  Presents a **federated learning framework** for aerial video captioning that integrates **temporal adaptation** and **privacy-preserving model updates**, enhancing cross-client generalization in distributed UAV systems.
+  
 ---
+
 ### 🌟 Featured Projects
 - 🧩 [ZamanBank AI Assistant](https://github.com/KenzhebekTaniyev/LLM-agent-zamanbank) — LLM-based financial assistant with FastAPI & LangChain  
 - 🎙️ [Voice Chat Assistant](https://github.com/KenzhebekTaniyev/voice-assistant) — Voice-based conversational AI integrating a Retrieval-Augmented Generation (RAG) system and Airflow pipelines for task automation and data orchestration  
