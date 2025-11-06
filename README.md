@@ -5,6 +5,16 @@ I'm building real-world AI systems — from industrial tracking (EFES) to smart 
 
 ---
 
+### 🧠 Research & Publications
+- 📄 [Efficient Transformer Network for Small-Scale Remote Sensing Object Detection](https://ieeexplore.ieee.org/abstract/document/10831761/) — *IEEE Access, 2024*  
+  Proposed a lightweight Transformer architecture for efficient small-object detection in aerial imagery.
+
+- 🌍 [Cross-Domain Adaptation in UAV Imagery Using Multi-Scale Vision Transformers](https://ieeexplore.ieee.org/abstract/document/10908313/) — *IEEE Geoscience and Remote Sensing Letters (GRSL), 2025*  
+  Addressed domain shift challenges in UAV datasets through adaptive attention and feature alignment.
+
+- 🛰️ *Upcoming:* **Federated Aerial Video Captioning with Effective Temporal Adaptation** — *Under review at IEEE GRSL (Manuscript ID: GRSL-01595-2025)*  
+  Introduces a federated learning framework for aerial video understanding, enhancing temporal consistency and privacy-preserving training.
+---
 ### 🌟 Featured Projects
 - 🧩 [ZamanBank AI Assistant](https://github.com/KenzhebekTaniyev/LLM-agent-zamanbank) — LLM-based financial assistant with FastAPI & LangChain  
 - 🎙️ [Voice Chat Assistant](https://github.com/KenzhebekTaniyev/voice-assistant) — Voice-based conversational AI integrating a Retrieval-Augmented Generation (RAG) system and Airflow pipelines for task automation and data orchestration  
@@ -22,8 +32,10 @@ I'm building real-world AI systems — from industrial tracking (EFES) to smart 
 ---
 
 ### 📈 GitHub Stats
-![Kenzhebek's GitHub stats]([https://github-readme-stats.vercel.app/api?username=kenzhebek&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=kenzhebek&show_icons=true&theme=tokyonight))
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=kenzhebek&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzhebek&layout=compact&theme=tokyonight)
+![Kenzhebek's GitHub stats]([[https://github-readme-stats.vercel.app/api?username=kenzhebek&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=kenzhebek&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=kenzhebek&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=kenzhebek&show_icons=true&theme=tokyonight)
+))
+![Top Langs]([[https://github-readme-stats.vercel.app/api/top-langs/?username=kenzhebek&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzhebek&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzhebek&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzhebek&layout=compact&theme=tokyonight)
+)
 )
 
 ---
